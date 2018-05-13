@@ -1,0 +1,430 @@
+1.1
+{
+	"_id" : ObjectId("5adeafc8fecdd8878f6c4dbb"),
+	"food_code" : "13110200",
+	"food_group" : 1311,
+	"display_name" : "Soft serve ice cream",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "cup",
+	"factor" : 1,
+	"increment" : 0.25,
+	"multiplier" : 0.25,
+	"milk" : 0.38233,
+	"solid_fats" : 170.39808,
+	"added_sugars" : 123.83793,
+	"calories" : 347.73,
+	"saturated_fats" : 11.7467
+}
+
+1.2
+{
+	"_id" : ObjectId("5adeafc9fecdd8878f6c54c2"),
+	"food_code" : "53209000",
+	"food_group" : 5320,
+	"display_name" : "Oreo or thin mint cookie",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "regular Oreo",
+	"factor" : 1,
+	"increment" : 1,
+	"multiplier" : 1,
+	"grains" : {
+		"total_grains" : 0.24112,
+		"whole_grains" : 0.01507
+	},
+	"solid_fats" : 20.02077,
+	"added_sugars" : 14.71117,
+	"calories" : 51.92,
+	"saturated_fats" : 0.4026
+}
+
+1.3
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bbf7"),
+	"food_code" : "13120100",
+	"food_group" : 1312,
+	"display_name" : "Ice cream bar, chocolate covered",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "bar (bar = 3 fl oz)",
+	"factor" : 1,
+	"increment" : 0.5,
+	"multiplier" : 0.5,
+	"milk" : 0.09744,
+	"solid_fats" : 112.32144,
+	"added_sugars" : 45.54761,
+	"calories" : 169.12,
+	"saturated_fats" : 9.5872
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bbf9"),
+	"food_code" : "13120500",
+	"food_group" : 1312,
+	"display_name" : "Ice cream sandwich",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "sandwich",
+	"factor" : 1,
+	"increment" : 0.5,
+	"multiplier" : 0.5,
+	"grains" : {
+		"total_grains" : 0.53454
+	},
+	"milk" : 0.09912,
+	"solid_fats" : 49.46265,
+	"added_sugars" : 48.40002,
+	"calories" : 143.37,
+	"saturated_fats" : 3.2332
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bbfc"),
+	"food_code" : "13140100",
+	"food_group" : 1314,
+	"display_name" : "Light ice cream bar",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "bar (bar = 3 fl oz)",
+	"factor" : 1,
+	"increment" : 0.5,
+	"multiplier" : 0.5,
+	"milk" : 0.25648,
+	"solid_fats" : 84.15288,
+	"added_sugars" : 37.81981,
+	"calories" : 153.44,
+	"saturated_fats" : 7.728
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bbfd"),
+	"food_code" : "13135000",
+	"food_group" : 1313,
+	"display_name" : "Light ice cream sandwich",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "sandwich",
+	"factor" : 1,
+	"increment" : 0.5,
+	"multiplier" : 0.5,
+	"grains" : {
+		"total_grains" : 0.5436
+	},
+	"milk" : 0.2652,
+	"solid_fats" : 21.2112,
+	"added_sugars" : 41.22339,
+	"calories" : 129.6,
+	"saturated_fats" : 1.368
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890c2de"),
+	"food_code" : "53112100",
+	"food_group" : 5311,
+	"display_name" : "Ice cream cake",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "piece (1/10 of loaf)",
+	"factor" : 1,
+	"increment" : 0.5,
+	"multiplier" : 0.5,
+	"grains" : {
+		"total_grains" : 0.2176
+	},
+	"milk" : 0.02992,
+	"oils" : 0.00038,
+	"solid_fats" : 35.29404,
+	"added_sugars" : 34.46238,
+	"calories" : 91.12,
+	"saturated_fats" : 1.5266
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890c306"),
+	"food_code" : "53222020",
+	"food_group" : 5322,
+	"display_name" : "Ice cream cone (wafer or cake, shell only)",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "cone",
+	"factor" : 1,
+	"increment" : 1,
+	"multiplier" : 1,
+	"grains" : {
+		"total_grains" : 0.21912
+	},
+	"solid_fats" : 2.17188,
+	"added_sugars" : 0.89267,
+	"calories" : 16.68,
+	"saturated_fats" : 0.0488
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890c307"),
+	"food_code" : "53222020",
+	"food_group" : 5322,
+	"display_name" : "Ice cream cone (wafer or cake, shell only)",
+	"portion_default" : 2,
+	"portion_amount" : 1,
+	"portion_display_name" : "large waffle cone",
+	"factor" : 1,
+	"increment" : 0.5,
+	"multiplier" : 0.5,
+	"grains" : {
+		"total_grains" : 1.58862
+	},
+	"solid_fats" : 15.74613,
+	"added_sugars" : 6.47186,
+	"calories" : 120.93,
+	"saturated_fats" : 0.3538
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890c308"),
+	"food_code" : "53222100",
+	"food_group" : 5322,
+	"display_name" : "Ice cream cone (sugar cone, shell only)",
+	"portion_default" : 1,
+	"portion_amount" : 1,
+	"portion_display_name" : "cone",
+	"factor" : 1,
+	"increment" : 1,
+	"multiplier" : 1,
+	"grains" : {
+		"total_grains" : 0.434
+	},
+	"oils" : 0.00002,
+	"solid_fats" : 2.7954,
+	"added_sugars" : 9.80766,
+	"calories" : 40.2,
+	"saturated_fats" : 0.057
+}
+
+1.4
+{
+	"_id" : 52,
+	"eventName" : "Research Colloquium",
+	"eventStart" : "2017-08-30 11:30:00",
+	"eventEnd" : "2017-08-30 15:00:00"
+}
+{
+	"_id" : 11,
+	"eventName" : "Wedding",
+	"eventStart" : "2017-08-19 17:00:00",
+	"eventEnd" : "2017-08-19 23:00:00"
+}
+{
+	"_id" : 43,
+	"eventName" : "Badging",
+	"eventStart" : "2017-08-16 08:00:00",
+	"eventEnd" : "2017-08-16 17:00:00"
+}
+{
+	"_id" : 50,
+	"eventName" : "Activities Fair",
+	"eventStart" : "2017-08-12 15:00:00",
+	"eventEnd" : "2017-08-12 23:00:00"
+}
+{
+	"_id" : 49,
+	"eventName" : "Orientation Picnic",
+	"eventStart" : "2017-08-12 11:30:00",
+	"eventEnd" : "2017-08-12 14:30:00"
+}
+
+1.5
+30
+
+1.6.a
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+
+1.6.b
+{
+	"_id" : 10,
+	"eventName" : "Pie Day",
+	"eventStart" : "2017-03-14 11:00:00",
+	"eventEnd" : "2017-03-14 13:00:00"
+}
+
+1.6.c
+{ "acknowledged" : true, "matchedCount" : 4, "modifiedCount" : 4 }
+
+1.6.d.
+6
+
+1.7.a
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bca8"),
+	"display_name" : "Whipped cream, sweetened",
+	"portion_display_name" : "8 oz",
+	"calories" : 103.53
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bca9"),
+	"display_name" : "Whipped cream, sweetened",
+	"portion_display_name" : "cup",
+	"calories" : 103.53
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd2a"),
+	"display_name" : "Milk chocolate bar or candy (plain)",
+	"portion_display_name" : "miniature bar (.5 oz)",
+	"calories" : 74.9
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd2e"),
+	"display_name" : "Krackel or Crunch Bar",
+	"portion_display_name" : "miniature bar (.5 oz)",
+	"calories" : 69.44
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd36"),
+	"display_name" : "Milk chocolate bar with almonds",
+	"portion_display_name" : "miniature bar (.5 oz)",
+	"calories" : 73.64
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd3b"),
+	"display_name" : "Coconut candy, chocolate-covered",
+	"portion_display_name" : "fun size bar",
+	"calories" : 97.2
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd40"),
+	"display_name" : "Chocolate chips",
+	"portion_display_name" : "morsels",
+	"calories" : 47.9
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd43"),
+	"display_name" : "Chocolate-covered candy",
+	"portion_display_name" : "piece (0.6 oz)",
+	"calories" : 62.22
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd48"),
+	"display_name" : "Snickers candy bar",
+	"portion_display_name" : "miniature bar (.3 oz)",
+	"calories" : 43.11
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd4c"),
+	"display_name" : "Butterfinger candy bar",
+	"portion_display_name" : "fun size bar (0.6 oz)",
+	"calories" : 99.96
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd4e"),
+	"display_name" : "Marshmallows",
+	"portion_display_name" : "cup of miniatures",
+	"calories" : 36.57
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd54"),
+	"display_name" : "Milky Way candy bar",
+	"portion_display_name" : "miniature bar (0.3 oz)",
+	"calories" : 35.955
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd56"),
+	"display_name" : "Peanut brittle",
+	"portion_display_name" : "small piece (0.2 oz)",
+	"calories" : 21.78
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd57"),
+	"display_name" : "M&M's candies with peanuts",
+	"portion_display_name" : "fun size package (0.7 oz)",
+	"calories" : 123.84
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd5c"),
+	"display_name" : "Peanut butter cups (Reese's)",
+	"portion_display_name" : "miniature cup",
+	"calories" : 36.05
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bd65"),
+	"display_name" : "M&M's plain chocolate candies",
+	"portion_display_name" : "fun size package (0.7 oz)",
+	"calories" : 103.32
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bdad"),
+	"display_name" : "Syrup (all types)",
+	"portion_display_name" : "Tablespoon",
+	"calories" : 53
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bdb2"),
+	"display_name" : "Butterscotch sauce",
+	"portion_display_name" : "Tablespoon",
+	"calories" : 62.964
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bdb4"),
+	"display_name" : "Fruit topping",
+	"portion_display_name" : "Tablespoon",
+	"calories" : 53.848
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bdb5"),
+	"display_name" : "Fudge sauce (thick type)",
+	"portion_display_name" : "Tablespoon",
+	"calories" : 72.66
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bdb8"),
+	"display_name" : "Marshmallow topping",
+	"portion_display_name" : "Tablespoon",
+	"calories" : 19.964
+}
+{
+	"_id" : ObjectId("5ae15be23a993b9ef890bdb9"),
+	"display_name" : "Nut topping (wet)",
+	"portion_display_name" : "Tablespoon",
+}
+
+1.7.b
+{
+	"_id" : 71,
+	"ingName" : "Nut topping (wet)",
+	"ing" : {
+		"portion_display_name" : "Tablespoon",
+		"calories" : 89.6
+	},
+	"cal" : {
+		"ounces" : 0.5
+	},
+	"calPerOunce" : 179.2
+}
+{
+	"_id" : 76,
+	"ingName" : "Butterfinger candy bar",
+	"ing" : {
+		"portion_display_name" : "fun size bar (0.6 oz)",
+		"calories" : 99.96
+	},
+	"cal" : {
+		"ounces" : 0.6
+	},
+	"calPerOunce" : 166.6
+}
+{
+	"_id" : 59,
+	"ingName" : "Milk chocolate bar or candy (plain)",
+	"ing" : {
+		"portion_display_name" : "miniature bar (.5 oz)",
+		"calories" : 74.9
+	},
+	"cal" : {
+		"ounces" : 0.5
+	},
+	"calPerOunce" : 149.8
+}
+
+2.1
+One advantage of embedding documents within other documents is that embedding documents provide great flexibility for database modeling. For example, in a blog application, there are blogs and comments. Every blog could have many comments. We could embedded comments into blog document, which is more consistent with object model.
+
+One disadvantage of embedding documents with other documents is that there exists limitation for size of a single documentation. Also, if we embedded huge amount comments into a single blog document, it will have bad influence over efficiency. When MongoDB update documents, it will put the whole document into memory. Therefore, it will be super slow in blog application since there could be huge amount of comments for a pop star’s blog.
+
+2.2
+We can think of embedded documents as hashes of dictionaries while arrays are a list of values.
+
+One advantage of using array instead of embedded document is that using array will be faster than using hash tables if you need to fetch most of the elements in the collection.
+
+One disadvantage of using array rather than embedded document is that embedded documents have named fields, and can embed other documents for rich data representation, and this provide convenience when we want to filter out target information by using a projection. In array, it will be more complex to do such kind of operations.
